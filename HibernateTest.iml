@@ -30,9 +30,9 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Hibernate 4.2.2-4.2.2" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Tomcat 8.0.5" level="application_server_libraries" />
     <orderEntry type="library" name="structs2" level="project" />
     <orderEntry type="library" name="json" level="project" />
     <orderEntry type="library" name="fastjson-1.2.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Tomcat8.0.5" level="application_server_libraries" />
   </component>
 </module>
